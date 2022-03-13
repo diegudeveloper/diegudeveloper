@@ -6,4 +6,6 @@ Aprendiz Fronted Developer con más de 15 proyectos personales y en crecimiento.
 
 Fiel a mi valor principal: **HazQueSuceda** y convencido de que seamos parte de la comunidad que cambia al mundo, de las personas que crean tecnología, de las que siempre hemos querido ser pero sobre todo convirtiéndonos en la mejor versión de nosotros.
 
-
+<!-- Social icons section -->
+<p align="center">
+  <a href="#><img width="32px" alt="diegudeveloper" title="diegudeveloper" src="https://user-images.githubusercontent.com/62949966/158070347-adaf510c-982e-4050-92f0-f6d7a13f5a9b.png"/></a>
