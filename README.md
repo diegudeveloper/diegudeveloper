@@ -1,4 +1,4 @@
-## My name is Diego 👨🏻‍💻
+## Mi nombre es Diego 👨🏻‍💻
 
 ![image](https://user-images.githubusercontent.com/62949966/158068313-a7a38d8c-558b-4589-9c97-0cf970c19cf1.jpg)
 
@@ -14,6 +14,7 @@ Fiel a mi valor principal: **HazQueSuceda** y convencido de que seamos parte de 
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://twitter.com/ahdiegogutierre"><img width="32px" alt="Twitter" title="Twitter" src="https://user-images.githubusercontent.com/62949966/158070835-37083385-c796-410a-8f12-a48e57484310.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/fPrdqh3Zfu" alt="Dev Pro Tips Discussion & Support Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
+  <a href="https://dev.to/diegudeveloper" alt="Dev Pro Tips Discussion & Support Server"><img width="32px" src="https://user-images.githubusercontent.com/62949966/158071693-33381ca7-7d52-4a41-b3ee-10cc703e3880.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://codepen.io/diegudeveloper"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a>
 </p>
