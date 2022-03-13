@@ -8,4 +8,8 @@ Fiel a mi valor principal: **HazQueSuceda** y convencido de que seamos parte de 
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="#><img width="32px" alt="diegudeveloper" title="diegudeveloper" src="https://user-images.githubusercontent.com/62949966/158070347-adaf510c-982e-4050-92f0-f6d7a13f5a9b.png"/></a>
+  <a href="#"><img width="32px" alt="Youtube" title="Youtube" src="https://user-images.githubusercontent.com/62949966/158070347-adaf510c-982e-4050-92f0-f6d7a13f5a9b.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://twitter.com/ahdiegogutierre"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+</p>
