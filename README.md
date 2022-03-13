@@ -6,10 +6,14 @@ Aprendiz Fronted Developer con más de 15 proyectos personales y en crecimiento.
 
 Fiel a mi valor principal: **HazQueSuceda** y convencido de que seamos parte de la comunidad que cambia al mundo, de las personas que crean tecnología, de las que siempre hemos querido ser pero sobre todo convirtiéndonos en la mejor versión de nosotros.
 
+---
+
 <!-- Social icons section -->
 <p align="center">
   <a href="#"><img width="32px" alt="Youtube" title="Youtube" src="https://user-images.githubusercontent.com/62949966/158070347-adaf510c-982e-4050-92f0-f6d7a13f5a9b.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/ahdiegogutierre"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
+  <a href="https://twitter.com/ahdiegogutierre"><img width="32px" alt="Twitter" title="Twitter" src="https://user-images.githubusercontent.com/62949966/158070835-37083385-c796-410a-8f12-a48e57484310.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://discord.gg/fPrdqh3Zfu" alt="Dev Pro Tips Discussion & Support Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
