@@ -32,7 +32,7 @@ True to my core value: **MakeItHappen** and convinced that we are part of the co
   <a href="#"><img alt="SASS" src="https://img.shields.io/badge/Sass-hotpink.svg?logo=SASS&logoColor=white"></a>
 </p>
 
-<h3 align="center" 💻 Software and tools </h3>
+<h3 align="center"> 💻 Software and tools </h3>
 
 <p align="center">
   <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
