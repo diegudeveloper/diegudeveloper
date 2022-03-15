@@ -1,7 +1,7 @@
 ## Trainee Front End Developer 👨🏻💻
 ### And although my name is Diego, everyone calls me Diegu...
 
-![image](https://user-images.githubusercontent.com/62949966/158068313-a7a38d8c-558b-4589-9c97-0cf970c19cf1.jpg)
+![Banner-Linkedin](https://user-images.githubusercontent.com/62949966/158424066-3314f127-e334-4c2e-965e-d754932e0ef4.jpg)
 
  With more than 15 personal projects and growing. Self-taught and learning Javascript and React to carry out more professional projects.
 
