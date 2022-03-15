@@ -5,7 +5,7 @@
 
  With more than 15 personal projects and growing. Self-taught and learning Javascript and React to carry out more professional projects.
 
-True to my core value: **MakeItHappen** and convinced that we are part of the community that changes the world, the people who create technology, the people we have always wanted to be but above all __becoming the best version of us.
+True to my core value: **MakeItHappen** and convinced that we are part of the community that changes the world, the people who create technology, the people we have always wanted to be but above all becoming the best version of us.
 
 ---
 
