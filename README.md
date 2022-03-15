@@ -1,11 +1,11 @@
-## Aprendiz Fronted Developer 👨🏻‍💻
-### Y aunque mi nombre es Diego, me dicen Diegu...
+## Trainee Front End Developer 👨🏻💻
+### And although my name is Diego, everyone calls me Diegu...
 
 ![image](https://user-images.githubusercontent.com/62949966/158068313-a7a38d8c-558b-4589-9c97-0cf970c19cf1.jpg)
 
- Con más de 15 proyectos personales y en crecimiento. Autodidacta y aprendiendo Javascript y React para llevar a cabo proyectos más profesionales.
+ With more than 15 personal projects and growing. Self-taught and learning Javascript and React to carry out more professional projects.
 
-Fiel a mi valor principal: **HazQueSuceda** y convencido de que seamos parte de la comunidad que cambia al mundo, de las personas que crean tecnología, de las que siempre hemos querido ser pero sobre todo __convirtiéndonos en la mejor versión de nosotros.__
+True to my core value: **MakeItHappen** and convinced that we are part of the community that changes the world, the people who create technology, the people we have always wanted to be but above all __becoming the best version of us.
 
 ---
 
