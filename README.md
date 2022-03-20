@@ -1,5 +1,4 @@
-## My name is Diego, but everyone calls me Diegu 
-👨🏻💻
+## My name is Diego, but everyone calls me Diegu 👨🏻💻
 
 ![Banner-Linkedin](https://user-images.githubusercontent.com/62949966/158424066-3314f127-e334-4c2e-965e-d754932e0ef4.jpg)
 
