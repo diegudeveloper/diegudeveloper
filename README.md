@@ -1,6 +1,6 @@
 ## My name is Diego, but everyone calls me Diegu 👨🏻💻
 
-![Banner-Linkedin](https://user-images.githubusercontent.com/62949966/158424066-3314f127-e334-4c2e-965e-d754932e0ef4.jpg)
+![Banner-Linkedin english](https://user-images.githubusercontent.com/62949966/160612912-85a9a790-5a2d-41d2-85a7-3856083184f2.jpg)
 
  With more than 15 personal projects and growing. Self-taught and learning Javascript and React to carry out more professional projects.
 
