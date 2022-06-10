@@ -2,11 +2,15 @@
 
 ![Banner-Linkedin english](https://user-images.githubusercontent.com/62949966/160612912-85a9a790-5a2d-41d2-85a7-3856083184f2.jpg)
 
- Fronted Developer apprentice with more than 15 personal and growing projects.
+ Apprentice Fronten Developer, Making it happen is my thing.
 
-Self-taught and with knowledge in Html, Css, Sass, Bootstrap, Gig and Github. Currently learning Javascript and React to carry out more professional projects.
+Self-taught and knowledgeable in Html, Css, Sass, Bootstrap, Gig and Github. Currently learning Javascript and React to carry out more professional projects.
 
 True to my core value: #MakeItHappen and convinced that we are part of the community that changes the world, the people who create technology, the people we have always wanted to be but above all becoming the best version of us.
+
+Currently learning Javascript and React to make more professional and more complete projects, so since my beginnings I have created more than 20 personal projects without wanting to stop.
+
+True to my core value: #MakeItHappen and convinced that we are part of the community that changes the world, the people who create technology, the people we have always wanted to be, but above all becoming the best version of us.
 
 
 ---
