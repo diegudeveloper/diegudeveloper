@@ -2,17 +2,13 @@
 
 ![Banner-Linkedin english](https://user-images.githubusercontent.com/62949966/160612912-85a9a790-5a2d-41d2-85a7-3856083184f2.jpg)
 
- Hello world! I am apprentice Fronten Developer, Make it happen is my motto.
+ Hello, world! This is Diego Gutiérrez, but please call me Diegu. I am a Frontend Developer apprentice and “Make it happen” is my motto. 
 
-Since 2019 I start in the TECH world as a frontend developer and although it sounds cliché, I am a lover of technology, but not the one that is consumed, but the one that is created.
+I started in the tech world in 2019 as a frontend developer, and although it sounds cliché, I am a technology lover, not about the one that is consumed, but the one that is created.
 
-Self-taught and knowledgeable in Html, Css, Sass, Bootstrap, Gig and Github. Currently learning Javascript and React to carry out more professional projects.
+I am an autodidact. I learned Html, Css, Sass, Bootstrap, Gig and Github by my own and now I am leaning Javascript and React, this to be able of carry out more professional projects. At the moment I've created +20 projects by my own and I want to keep going.
 
-True to my core value: #MakeItHappen and convinced that we are part of the community that changes the world, the people who create technology, the people we have always wanted to be but above all becoming the best version of us.
-
-After I lerned the basics, I stared to learn Javascript and React. This way I could make more profesional and complete projects. ince I started this road, I've created +20 project by my own and I wat to keep going.
-
-True to my core value: #MakeItHappen and convinced that we are part of the community that changes the world, the people who create technology, the people we have always wanted to be, but above all becoming the best version of us.
+I try to stay true to my core value: #MakeItHappen, because I am convinced that I can be part of the community that changes the world, the people who create technology, the people I have always wanted to be. But above all, I want to become the best version of me.
 
 
 ---
