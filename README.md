@@ -47,9 +47,9 @@ I try to stay true to my core value: #MakeItHappen, because I am convinced that 
 
 ---
 
-## 🚀Mis proyectos
+## 🚀My projects
 
-Realizo proyectos para aumentar mis habilidades técnicas y seguir aprendiendo sobre nuevas tecnologías. A continuación te muestro algunos de ellos:
+I do projects to increase my technical skills and continue learning about new technologies. Here I show you some of them:
 
 | Portfolio-cv   | Travel Agency |
 | ------------- | ------------- |
