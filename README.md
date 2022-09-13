@@ -53,7 +53,7 @@ Realizo proyectos para aumentar mis habilidades técnicas y seguir aprendiendo s
 
 | Portfolio-cv   | Travel Agency |
 | ------------- | ------------- |
-| <img src="https://user-images.githubusercontent.com/62949966/189738584-d61e2725-d3e7-49c2-bf26-8db89cda4341.png" width="350" height="225" align="right" />  | <img src="https://github.com/diegudeveloper/Html_css_js_Travel_Agency/issues/3" width="350" align="right" />  | 
+| <img src="https://user-images.githubusercontent.com/62949966/189738584-d61e2725-d3e7-49c2-bf26-8db89cda4341.png" width="350" height="225" align="right" />  | <img src="https://user-images.githubusercontent.com/62949966/189842403-50608c86-a64d-457b-8307-251251374830.png" width="350" align="right" />  | 
 
 
 
