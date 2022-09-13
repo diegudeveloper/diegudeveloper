@@ -51,5 +51,5 @@ I try to stay true to my core value: #MakeItHappen, because I am convinced that 
 
 Realizo proyectos para aumentar mis habilidades técnicas y seguir aprendiendo sobre nuevas tecnologías. A continuación te muestro algunos de ellos:
 
-- <img src="https://user-images.githubusercontent.com/62949966/189738584-d61e2725-d3e7-49c2-bf26-8db89cda4341.png" width="450" align="right" />
+- <img src="https://user-images.githubusercontent.com/62949966/189738584-d61e2725-d3e7-49c2-bf26-8db89cda4341.png" width="350" align="right" />
 
