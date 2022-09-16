@@ -54,7 +54,7 @@ I do projects to increase my technical skills and continue learning about new te
 | Portfolio-cv  | Travel Agency | Airbnb  Clone |
 | ------------- | ------------- | ------------- |
 | <img src="https://user-images.githubusercontent.com/62949966/189738584-d61e2725-d3e7-49c2-bf26-8db89cda4341.png" width="250" align="right"/> | <img src="https://user-images.githubusercontent.com/62949966/189842403-50608c86-a64d-457b-8307-251251374830.png" width="250" align="right"/>  |  <img src="https://user-images.githubusercontent.com/62949966/189848767-efc61f53-2d0a-4009-8e3e-6c8991015321.png" width="250" align="right" /> |
-| Coffe Webside | Avocado API | Html and CSS projects | :---: 
+| Coffe Webside | Avocado API | Html and CSS projects | 
 | <img src="https://user-images.githubusercontent.com/62949966/190724944-8c971ea5-b452-433d-84ec-c9fd707f6301.png" width="250" align="right"/> | <img src="https://user-images.githubusercontent.com/62949966/190727326-62dc76fe-fd8e-4abb-b86d-ad32ef842851.png" width="250" align="right"/> | <img src="https://user-images.githubusercontent.com/62949966/190730385-2fb3c987-fbe9-48b5-9623-1ec1b2ac46a5.png" width="250" align="right"/>
 
   
