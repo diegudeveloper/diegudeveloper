@@ -57,6 +57,9 @@ I do projects to increase my technical skills and continue learning about new te
 | Coffe Webside | Avocado API | Html and CSS projects | 
 | <img src="https://user-images.githubusercontent.com/62949966/190724944-8c971ea5-b452-433d-84ec-c9fd707f6301.png" width="250" align="right"/> | <img src="https://user-images.githubusercontent.com/62949966/190727326-62dc76fe-fd8e-4abb-b86d-ad32ef842851.png" width="250" align="right"/> | <img src="https://user-images.githubusercontent.com/62949966/190730385-2fb3c987-fbe9-48b5-9623-1ec1b2ac46a5.png" width="250" align="right"/>
 
+## 📈 My statistics
+|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegudeveloper&show_icons=true&theme=city_lights)](https://github.com/diegudeveloper/github-readme-stats)
+
   
   
 
