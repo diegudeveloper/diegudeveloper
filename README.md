@@ -53,7 +53,7 @@ I do projects to increase my technical skills and continue learning about new te
  
 | Portfolio-cv  | Travel Agency | Airbnb  Clone |
 | ------------- | ------------- | ------------- |
-| <img src="https://user-images.githubusercontent.com/62949966/207640043-fa8efeef-4720-4c85-8cde-666b7e6f8bdc.jpg" width="250" align="right"/> | <img src="https://user-images.githubusercontent.com/62949966/207624052-1fbbd37e-e7d8-4741-a295-3ebb60202167.jpg" width="250" align="right"/>  |  <img src="https://user-images.githubusercontent.com/62949966/207633339-db5215a2-a190-464d-9a99-19cf8ae5d0b2.jpg" width="250" align="right" /> |
+| <img src="https://user-images.githubusercontent.com/62949966/207642151-fe80a21e-6132-4d02-8463-f423f0c58d7d.jpg" width="250" align="right"/> | <img src="https://user-images.githubusercontent.com/62949966/207624052-1fbbd37e-e7d8-4741-a295-3ebb60202167.jpg" width="250" align="right"/>  |  <img src="https://user-images.githubusercontent.com/62949966/207633339-db5215a2-a190-464d-9a99-19cf8ae5d0b2.jpg" width="250" align="right" /> |
 | Coffe Webside | Avocado API | Html and CSS projects | 
 | <img src="https://user-images.githubusercontent.com/62949966/207634194-3f30ad23-d723-41c8-a40b-714b5e4b02ed.jpg" width="250" align="right"/> | <img src="https://user-images.githubusercontent.com/62949966/207634784-19b7b0da-c8da-4ca9-b383-768c21872bc1.jpg" width="250" align="right"/> | <img src="https://user-images.githubusercontent.com/62949966/207636986-5a759f20-80d8-4180-a16f-d5525121d511.jpg" width="250" align="right"/>
 
