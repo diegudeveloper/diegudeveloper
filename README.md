@@ -2,13 +2,13 @@
 
 ![Banner-Linkedin english](https://user-images.githubusercontent.com/62949966/160612912-85a9a790-5a2d-41d2-85a7-3856083184f2.jpg)
 
- Hello, world! This is Diego Gutiérrez, but please call me Diegu. I am a Frontend Developer apprentice and “Make it happen” is my motto. 
+ Hello everybody! I'm Diegu Gutiérrez, a technology enthusiast and a tireless Frontend Developer learner. Let me immerse you in my exciting journey.
 
-I started in the tech world in 2019 as a frontend developer, and although it sounds cliché, I am a technology lover, not about the one that is consumed, but the one that is created.
+Since I entered the tech world in 2019, I was captivated by the ability of technology to transform our lives. But unlike many, I wasn't content to be just a consumer; I wanted to be the creator behind that digital magic.
 
-I am an autodidact. I learned Html, Css, Sass, Bootstrap, Gig and Github by my own and now I am leaning Javascript and React, this to be able of carry out more professional projects. At the moment I've created +20 projects by my own and I want to keep going.
+I consider myself an inveterate autodidact. I've invested countless hours learning and mastering languages and tools like HTML, CSS, Sass, Bootstrap, Git and GitHub, all on my own. But I don't stop there. Currently, I'm immersed in studying JavaScript and React, with the goal of taking my projects to a more professional and dazzling level. Creating more than 15 projects so far has been just the beginning of my journey.
 
-I try to stay true to my core value: #MakeItHappen, because I am convinced that I can be part of the community that changes the world, the people who create technology, the people I have always wanted to be. But above all, I want to become the best version of me.
+At every step of my journey, I keep my main motto in mind: #MakeItHappen. I am firmly convinced that I can contribute to the community that changes the world, to those people who are dedicated to creating technology. Being part of that community has always been my greatest yearning. But more than anything else, my greatest desire is to become the best version of me.
 
 
 ---
