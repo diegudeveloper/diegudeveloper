@@ -19,7 +19,7 @@ At every step of my journey, I keep my main motto in mind: #MakeItHappen. I am f
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://twitter.com/Diegudeveloper"><img width="32px" alt="Twitter" title="Twitter" src="https://user-images.githubusercontent.com/62949966/158070835-37083385-c796-410a-8f12-a48e57484310.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://dev.to/diegudeveloper" alt="Dev Pro Tips Discussion & Support Server"><img width="32px" src="https://github.com/diegudeveloper/diegudeveloper/assets/62949966/f45ca09f-3046-4a64-9611-b1924db41a4a"/></a>
+  <a href="https://diegublog.com" alt="Dev Pro Tips Discussion & Support Server"><img width="32px" src="https://github.com/diegudeveloper/diegudeveloper/assets/62949966/f45ca09f-3046-4a64-9611-b1924db41a4a"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://codepen.io/diegudeveloper"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://user-images.githubusercontent.com/62949966/158072619-6aed406e-0c17-4ce7-9165-d5fcf50a2aa7.png"/></a>
    &#8287;&#8287;&#8287;&#8287;&#8287;
