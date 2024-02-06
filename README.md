@@ -15,7 +15,7 @@ At every step of my journey, I keep my main motto in mind: #MakeItHappen. I am f
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://www.diegugutierrez.com"><img width="32px" alt="mi webside" title="website" src="https://user-images.githubusercontent.com/62949966/158070347-adaf510c-982e-4050-92f0-f6d7a13f5a9b.png"/></a>
+  <a href="https://www.diegugutierrez.com" target="_blank"><img width="32px" alt="mi webside" title="website" src="https://user-images.githubusercontent.com/62949966/158070347-adaf510c-982e-4050-92f0-f6d7a13f5a9b.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://twitter.com/Diegudeveloper"><img width="32px" alt="Twitter" title="Twitter" src="https://github.com/diegudeveloper/diegudeveloper/assets/62949966/edff9d0a-de4b-414d-b1fa-802ff17ea605"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
