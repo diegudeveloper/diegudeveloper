@@ -23,7 +23,7 @@ At every step of my journey, I keep my main motto in mind: #MakeItHappen. I am f
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://codepen.io/diegudeveloper"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://user-images.githubusercontent.com/62949966/158072619-6aed406e-0c17-4ce7-9165-d5fcf50a2aa7.png"/></a>
    &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/diegugutierrez/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://github.com/diegudeveloper/diegudeveloper/assets/62949966/c6b94853-e917-49db-a85a-f1e8156e4ea2"/></a>
+  <a href="https://www.linkedin.com/in/diegugutierrez/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://github.com/diegudeveloper/diegudeveloper/assets/62949966/f687d69c-4c6b-418d-ac58-ac21edf64c7f"/></a>
 </p>
 
 ---
